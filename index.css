@@ -1,0 +1,32 @@
+body {    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tit-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4em;
+}
+
+h1 {
+    margin: 30px;
+}
+
+
+.hide-me {
+    display: none;
+}
+
+.request {
+    height: 3em;
+    border-radius: 6%;
+    border-style: none;
+    background-color: #13617A;
+    color: white;
+    font-weight: 600;
+
+}
